@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "mundo"
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
